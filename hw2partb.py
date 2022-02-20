@@ -1,5 +1,5 @@
 ### Written by Ian Macleod (idm2114) and Imanol Uribe (iu2155) 
-### for COMS 4342 HW2 Q2B
+### for COMS 4342 HW2 Q2B 
 
 import random
 import copy 
